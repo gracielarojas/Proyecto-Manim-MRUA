@@ -1,6 +1,6 @@
 # Proyecto de Física: MRUA con Manim
 
-Video-ensayo sobre el Movimiento Rectilíneo Uniformemente Acelerado (MRUA), creado con Manim para la asignatura TICS.
+Video sobre el Movimiento Rectilíneo Uniformemente Acelerado (MRUA), creado con Manim para la asignatura TICS.
 
 **Estudiante:** Graciela Rojas Silva
 **Universidad:** Universidad de Talca, 2025
